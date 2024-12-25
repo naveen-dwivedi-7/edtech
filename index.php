@@ -2,5 +2,5 @@
 
 
 echo phpinfo();
-echo "hi php";
+echo "hi php brother";
 
